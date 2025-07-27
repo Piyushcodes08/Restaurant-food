@@ -7,12 +7,10 @@ const Section1 = () => {
         <div className="row">
           <div className="col-md-6 heading">
             <h1>
-              Good food choices are good <b> investments.</b>
+              Good food choices are good investments.
             </h1>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, assumenda expedita eos, cum
-              voluptatem iste nisi quae sapiente eaque odio aperiam adipisci cumque error porro qui laborum omnis iure
-              asperiores.
+             Eat healthy without compromising on taste! At [Your Brand Name], we specialize in freshly prepared, balanced meals made with all-natural ingredients. Our nutritionist-approved menus are perfect for fitness lovers, weight-watchers, or anyone seeking a clean-eating lifestyle. Because your body deserves the best.
             </p>
             <button className="order_btn">Order Now</button>
 
